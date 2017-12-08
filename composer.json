@@ -1,0 +1,12 @@
+{
+  "name": "bogwien/english-dom-test",
+  "description": "EnglishDom Test",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bohdan Hvozd",
+      "email": "bogwien@gmail.com"
+    }
+  ]
+}
